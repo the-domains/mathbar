@@ -2,12 +2,13 @@ name: mathbar
 favicon: null
 layout_spectrum: 0.7442299015820026
 typography_spectrum: 0.1961623562965542
+title: 'Welcome | Matt Barrett'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74832909-1
   facebook: null
   twitter: null
 opengraph:
