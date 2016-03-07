@@ -1,0 +1,28 @@
+name: mathbar
+favicon: null
+layout_spectrum: 0.7442299015820026
+typography_spectrum: 0.1961623562965542
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4881384519394487
+  lightness: 0.6297332271933556
+  saturation: 0.19648778601549566
+  rhythmicContrast: 0.5903399758972228
+purpose: []
